@@ -1,10 +1,10 @@
-# zboni2 - Portfolio
+# altin-soc - Portfolio
 
 Welcome to my portfolio! This is my personal landing page showcasing my projects, skills, and journey in cybersecurity and web development.
 
 ## 🌐 Live Site
 
-**Visit my portfolio**: [https://zboni2.github.io/](https://zboni2.github.io/)
+**Visit my portfolio**: [https://altin-soc.github.io/](https://altin-soc.github.io/)
 
 ## 📋 About
 
@@ -16,7 +16,7 @@ This portfolio serves as a central hub for all my projects and demonstrates my s
 
 ## 🚀 Featured Projects
 
-### [Cybersecurity Blog](https://zboni2.github.io/CyberSecurity-Blog/)
+### [Cybersecurity Blog](https://altin-soc.github.io/CyberSecurity-Blog/)
 A comprehensive blog featuring:
 - CTF writeups and walkthroughs
 - Security tutorials and guides
@@ -47,7 +47,7 @@ Portfolio/
 
 ## 🤝 Connect With Me
 
-- **GitHub**: [zboni2](https://github.com/zboni2)
+- **GitHub**: [altin-soc](https://github.com/altin-soc)
 - **Email**: zboniprisht@web.de
 
 ## 📄 License
